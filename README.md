@@ -1,2 +1,2 @@
-# ai-ml\n
+# ai-ml
 author- sachin singh
